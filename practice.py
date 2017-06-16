@@ -139,7 +139,6 @@ def stnd_nrm(x):
 cube = ________
 
 # lambda(x,y) that concatantes two strings
-# FIXME
 concat = ________
 
 # lambda(x) which returns a function lambda(y) which returns a function
