@@ -208,7 +208,7 @@ def sum(term, n):
 def zeta_approx(s):
 	"""
 	Approximates the zeta function with respect to s up to the 500th term.
-	The zeta function Z(s) = sum of (1/n)^s from n=1 to ∞.
+	The zeta function Z(s) = sum of (1/n)^s from n= 1 to ∞.
 	Using your defined sum function, come up with a proper term function,
 	using only a lambda function, for the sum. Do not use ** notation, must
 	use previous abstractions of powers. Make sure your sum doesn't diverge!
@@ -223,7 +223,7 @@ def zeta_approx(s):
 
 def product(term, n):
 	"""
-	Representation of a procut up to a specified index given some sequence.
+	Representation of a product up to a specified index given some sequence.
 
 	Args:
 		term: functional form of a sequence accpeting one argument
