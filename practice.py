@@ -255,7 +255,7 @@ def choose(n, k):
 	are there from a deck of cards? choose(52, 4).
 
 	Implement the choose function nCk = n! / k! * (n - k)!.
-	Be careful when defining using factorial, n! gets really big really
+	Be cautious with using factorials, they gets really big really
 	fast. The better method will be to use a product with a suitable
 	term function. If k < 0 or k > n, choose(n, k) = 0.
 	For more info: https://en.wikipedia.org/wiki/Binomial_coefficient
